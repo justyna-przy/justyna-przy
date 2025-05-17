@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on:
-  - ISE Block 7 projects.
+  - ISE Block 2.4 projects.
   - Portfolio Website.
 
 <!--
